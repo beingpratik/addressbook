@@ -12,10 +12,10 @@
     		<id>release_to_qa</id>
    	 	<url>http://52.172.202.155:8080/nexus/content/repositories/release_to_qa</url>
   	</repository> 
- <repository>
+<!-- <repository>
     <id>releases</id>
     <url>http://52.172.203.55:8080/nexus/content/repositories/releases</url>
-  </repository>
+  </repository> -->
 </distributionManagement>
     <properties>
         <build.number>SNAPSHOT</build.number>
