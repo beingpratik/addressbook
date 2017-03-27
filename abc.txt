@@ -1,0 +1,1 @@
+shHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: '/var/lib/jenkins/addressbook/addressbook_main/target/surefire-reports', reportFiles: 'index.html', reportName: 'HTML Report'])
